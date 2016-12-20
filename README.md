@@ -1,0 +1,1 @@
+This is a repository for me to practice as I learn new things. Please excuse the lack of awesomeness.
